@@ -4,7 +4,7 @@ def parrot(str)
   if str1 == ""
     str1 = "Squawk!"
   end
-  put str
+  puts str
   return str
 end
 # returns the phrase
